@@ -10,4 +10,7 @@
   <!-- Vendor -->
   <project name="NusantaraROM-devices/vendor_xiaomi_santoni" path="vendor/xiaomi" remote="github" revision="10" />
 
+<!-- Clang-12 -->
+  <project name="kdrag0n/proton-clang" path="prebuilts/clang/host/linux-x86/clang-12" remote="github" revision="master" />
+  
 </manifest>
