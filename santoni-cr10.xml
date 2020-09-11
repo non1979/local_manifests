@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Device tree -->
+  <project name="non1979/android_device_xiaomi_santoni" path="device/xiaomi/santoni" remote="github" revision="cr10.0" />
+
+  <!-- Kernel -->
+  <project name="zhantech/android_kernel_xiaomi_santoni" path="kernel/xiaomi/msm8937" remote="github" revision="luuvy-4.9" />
+
+  <!-- Vendor -->
+  <project name="NusantaraROM-devices/vendor_xiaomi_santoni" path="vendor/xiaomi" remote="github" revision="10" />
+
+</manifest>
